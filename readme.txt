@@ -1,5 +1,1 @@
-BBBB
-
-AAAAA
-
-ccc
+b02 readme.txt
